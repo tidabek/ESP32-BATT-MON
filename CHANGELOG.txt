@@ -1,0 +1,6 @@
+// ===================================================================================
+// CHANGELOG:
+// 2.0.0 - WT, 9 CZE 2026 22:00:00 UTC - Zamrożenie stabilnej bazy kodu. Zabezpieczenie
+//                                       magistral I2C/SPI przed zwisami przy braku
+//                                       fizycznych modułów (EEPROM, SD).
+// ===================================================================================
